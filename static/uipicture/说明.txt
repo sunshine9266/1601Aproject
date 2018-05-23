@@ -1,0 +1,11 @@
+img图片里面为请求的list.json数据里面的小图标
+
+先做index  seconds  three  four四个页面 flex+rem布局    构建vue项目 
+
+注册一个高德地图api接口,数据从上面请求
+注册地址:http://lbs.amap.com/ 
+
+会录制做好后的一个QQ小视频发你离线
+
+first页面是我做好后的截图.弹窗效果后期再加上
+
